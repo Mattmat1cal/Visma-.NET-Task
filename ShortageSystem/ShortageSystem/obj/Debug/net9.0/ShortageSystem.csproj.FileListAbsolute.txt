@@ -1,0 +1,14 @@
+C:\Old D disk\mato\code\Visma\ShortageSystem\ShortageSystem\bin\Debug\net9.0\ShortageSystem.exe
+C:\Old D disk\mato\code\Visma\ShortageSystem\ShortageSystem\bin\Debug\net9.0\ShortageSystem.deps.json
+C:\Old D disk\mato\code\Visma\ShortageSystem\ShortageSystem\bin\Debug\net9.0\ShortageSystem.runtimeconfig.json
+C:\Old D disk\mato\code\Visma\ShortageSystem\ShortageSystem\bin\Debug\net9.0\ShortageSystem.dll
+C:\Old D disk\mato\code\Visma\ShortageSystem\ShortageSystem\bin\Debug\net9.0\ShortageSystem.pdb
+C:\Old D disk\mato\code\Visma\ShortageSystem\ShortageSystem\obj\Debug\net9.0\ShortageSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Old D disk\mato\code\Visma\ShortageSystem\ShortageSystem\obj\Debug\net9.0\ShortageSystem.AssemblyInfoInputs.cache
+C:\Old D disk\mato\code\Visma\ShortageSystem\ShortageSystem\obj\Debug\net9.0\ShortageSystem.AssemblyInfo.cs
+C:\Old D disk\mato\code\Visma\ShortageSystem\ShortageSystem\obj\Debug\net9.0\ShortageSystem.csproj.CoreCompileInputs.cache
+C:\Old D disk\mato\code\Visma\ShortageSystem\ShortageSystem\obj\Debug\net9.0\ShortageSystem.dll
+C:\Old D disk\mato\code\Visma\ShortageSystem\ShortageSystem\obj\Debug\net9.0\refint\ShortageSystem.dll
+C:\Old D disk\mato\code\Visma\ShortageSystem\ShortageSystem\obj\Debug\net9.0\ShortageSystem.pdb
+C:\Old D disk\mato\code\Visma\ShortageSystem\ShortageSystem\obj\Debug\net9.0\ShortageSystem.genruntimeconfig.cache
+C:\Old D disk\mato\code\Visma\ShortageSystem\ShortageSystem\obj\Debug\net9.0\ref\ShortageSystem.dll

@@ -1,0 +1,3 @@
+﻿using ShortageSystem;
+
+ConsoleUI.StartMenu();
